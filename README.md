@@ -20,8 +20,6 @@
 - 🎓 QingDao university
 - 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 站长.
 - 📖 [《Go语言编程之旅：一起用Go做项目》](https://u.jd.com/RMSbOS)贡献者.
-- 📖 开源图书：[《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example).
-- 📦 GCTT、golangweekly 等仓库发起人.
 
 ## 📊 本周编码时长
 <!--START_SECTION:waka-->
