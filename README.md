@@ -40,10 +40,3 @@ Windows，CentOs，Ubuntu           1 hr 21 mins        ████████
 ```
 
 <!--END_SECTION:waka-->
-
-## 最近动态
-
-[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
