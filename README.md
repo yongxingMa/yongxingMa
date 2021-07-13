@@ -15,7 +15,6 @@
 
 ### 
 
-- 🎓 QingDao university
 - 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 站长.
 - 📖 [《Go语言编程之旅：一起用Go做项目》](https://u.jd.com/RMSbOS)贡献者.
 
