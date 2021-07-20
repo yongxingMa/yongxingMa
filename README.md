@@ -13,7 +13,5 @@
 
 ### 
 - 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 个人网站.
-- 📖 [《Go语言编程之旅：一起用Go做项目》](https://u.jd.com/RMSbOS)贡献者.
+- 📖 学习方向:工业互联网，云原生，边缘计算
 - 💬 中级网络工程师，高级系统架构师.
-- 💻 学习方向:工业互联网，云原生，边缘计算
-```
