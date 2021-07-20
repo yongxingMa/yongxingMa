@@ -8,32 +8,15 @@
 <!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
 
 - 😄**后端** Java，Golang，Python
-- 😃**前端** HTML，CSS，JavaScript，Vue
-- 😆**数据库** MySQL，Redis
-- 😝**框架** SpringBoot，SpringCloud，Kubernetes
-- 😛**物联网**  Kuiper，EMQ，InfluxDB，Kubeedge
+- 😆**数据库** MySQL，Redis，MongoDB，InfluxDB
+- 😝**框架** SpringCloud，Kubernetes，Kubeedge，eKuiper
 
 ### 
-
-- 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 站长.
+- 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 个人网站.
 - 📖 [《Go语言编程之旅：一起用Go做项目》](https://u.jd.com/RMSbOS)贡献者.
-
-## 📊 本周编码时长
-<!--START_SECTION:waka-->
-```text
-Week: 17 September, 2020 - 24 September, 2020
-
-💬 编程语言: 
-Java            1 hr 21 mins        █████████████████████████   100.0%
-Golang          1 hr 21 mins        ████████████████████        70.0%
-Python          1 hr 21 mins        ███████████████             30.0%
-
-🔥 常用编辑器: 
-IDEA,Goland         1 hr 21 mins        █████████████████████████   100.0%
-
-💻 操作系统: 
-Win10,Linux         1 hr 21 mins        █████████████████████████   100.0%
-
+- 💬 中级网络工程师，高级系统架构师.
+- 🔥 常用编辑器:IDEA,Goland
+- 💻 操作系统: Win10,Linux
 ```
 
 <!--END_SECTION:waka-->
