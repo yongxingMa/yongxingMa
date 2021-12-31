@@ -7,6 +7,7 @@
 
 <!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
 
+- 😎**前端** Html，Vue
 - 😄**后端** Java，Golang，Python
 - 😆**数据库** MySQL，Redis，MongoDB，InfluxDB
 - 😝**服务框架** SpringCloud，Istio，Kubernetes，Kubeedge，eKuiper
