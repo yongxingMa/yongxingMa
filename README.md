@@ -14,3 +14,4 @@
 ### 
 - 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 个人网站.
 - 📖 学习方向:工业互联网，云原生，边缘计算
+- Java工程师，网络工程师，系统架构师
