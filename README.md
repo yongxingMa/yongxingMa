@@ -9,9 +9,9 @@
 
 - 😄**后端** Java，Golang，Python
 - 😆**数据库** MySQL，Redis，MongoDB，InfluxDB
-- 😝**框架** SpringCloud，Kubernetes，Kubeedge，eKuiper
+- 😝**服务框架** SpringCloud，Istio，Kubernetes，Kubeedge，eKuiper
 
 ### 
 - 🏠 [https://www.maxiaozhai.com](https://www.maxiaozhai.com) 个人网站.
-- 📖 学习方向:工业互联网，云原生，边缘计算
-- Java工程师，网络工程师，系统架构师
+- 📖 学习方向:工业互联网，云原生，云计算，边缘计算
+- 👨🏽‍💻 Java工程师，网络工程师，系统架构师
