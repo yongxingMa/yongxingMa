@@ -9,10 +9,10 @@
 
 - 😎**前端** Html，Vue
 - 😄**后端** Java，Golang，Python
-- 😆**数据库** MySQL，Redis，MongoDB，InfluxDB
-- 😝**服务框架** SpringCloud，Istio，Kubernetes，Kubeedge，eKuiper
+- 😆**数据库** MySQL，Redis，MongoDB，InfluxDB，ClickHouse
+- 😝**技术框架** OpenStack，Kubernetes，KubeSphere，KubeEdge，Istio，Kuiper，SpringCloud
 
 ### 
-- 🏠 [http://www.maxiaozhai.com](http://www.maxiaozhai.com) 个人网站.
-- 📖 学习方向:工业互联网，云原生，云计算，边缘计算
+- 🏠 [http://www.maxiaozhai.com](http://www.maxiaozhai.com) 个人小站.
+- 📖 学习方向:工业互联网，云计算，云原生，边缘计算
 - 👨🏽‍💻 Java工程师，网络工程师，系统架构师
