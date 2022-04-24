@@ -8,9 +8,9 @@
 <!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
 
 - 😎**前端** Html，Vue
-- 😄**后端** Java，Golang，Python
+- 😄**后端** Java，Golang，SpringBoot，SpringCloud
 - 😆**数据库** MySQL，Redis，MongoDB，InfluxDB，ClickHouse
-- 😝**技术框架** OpenStack，Kubernetes，KubeSphere，KubeEdge，Istio，Kuiper，SpringCloud
+- 😝**云原生** OpenStack，Kubernetes，KubeSphere，KubeEdge，Istio，Kuiper，
 
 ### 
 - 🏠 [http://www.maxiaozhai.com](http://www.maxiaozhai.com) 个人小站.
