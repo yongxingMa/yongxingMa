@@ -7,12 +7,12 @@
 
 <!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
 
-- 😎**前端** Html，Vue
+- 😎**前端** Html，Vue，NodeJS
 - 😄**后端** Java，Golang，SpringBoot，SpringCloud
-- 😆**数据库** MySQL，Redis，MongoDB，InfluxDB，ClickHouse
-- 😝**云原生** OpenStack，Kubernetes，KubeSphere，KubeEdge，Istio，Kuiper，
+- 😆**数据库** MySQL，Redis，Kafka, MongoDB，InfluxDB，ClickHouse
+- 😝**云原生** OpenStack，Kubernetes，KubeSphere，KubeEdge，Istio，eKuiper，
 
 ### 
 - 🏠 [http://www.maxiaozhai.com](http://www.maxiaozhai.com) 个人小站.
-- 📖 学习方向:工业互联网，云计算，云原生，边缘计算
-- 👨🏽‍💻 Java工程师，网络工程师，系统架构师，云原生开发者
+- 📖 学习方向:工业互联网，云计算，云原生，边缘计算，5G
+- 👨🏽‍💻 Java/Go开发工程师，网络工程师，系统架构师，云原生开发者
