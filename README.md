@@ -13,6 +13,6 @@
 - 😝**云原生** OpenStack，Kubernetes，KubeSphere，KubeEdge，Istio，eKuiper，
 
 ### 
-- 🏠 [http://www.mayongxing.com](http://www.mayongxing.com) 个人小站.
+- 🏠 [https://www.mayongxing.cn](https://www.mayongxing.cn) 个人小站.
 - 📖 学习方向:工业互联网，云计算，云原生，边缘计算，5G
 - 👨🏽‍💻 Java/Go开发工程师，网络工程师，系统架构师，云原生开发者
